@@ -1,7 +1,7 @@
 # Micro-controller Workshop - Beginner Level (Blinky)
 =====================================================
 
-Contents: 
+### Contents: 
 
  I.   Micro-controllers
  
@@ -32,4 +32,4 @@ Contents:
       - Build Circuit
 
  
-Setting Up the IDE: https://learn.adafruit.com/introducing-trinket/setting-up-with-arduino-ide
+### Setting Up the [IDE](https://learn.adafruit.com/introducing-trinket/setting-up-with-arduino-ide)

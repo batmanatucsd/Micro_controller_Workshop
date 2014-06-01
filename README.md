@@ -7,16 +7,16 @@
 
  I.   Micro-controllers
  
-      * What is micro-controller?
+      - What is micro-controller?
       
  II.  IDE
  
-      * What is IDE?
+      - What is IDE?
       
  III. Flashing & Bootloader
  
-      * What is bootloader
-      * What happens when you upload in IDE?
+      - What is bootloader
+      - What happens when you upload in IDE?
       
  IV.  Code 
  
@@ -26,7 +26,7 @@
       
  V.   Circuit
  
-      * Schematics
-      * Build Circuit
+      - Schematics
+      - Build Circuit
 
  

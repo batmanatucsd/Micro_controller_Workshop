@@ -20,9 +20,9 @@
       
  IV.  Code 
  
-      * setup(), loop()
-      * Arduino functions
-      * Code program
+      - setup(), loop()
+      - Arduino functions
+      - Code program
       
  V.   Circuit
  

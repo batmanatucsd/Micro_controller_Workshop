@@ -5,6 +5,8 @@ Contents:
 
  I.   Micro-controllers
  
+      - What is micro-controller?
+      
  II.  IDE
  
       - What is IDE?
@@ -19,11 +21,15 @@ Contents:
  
       - setup(), loop()
       
-      - arduino functions
+      - Arduino functions
+      
+      - Code program
       
  V.   Circuit
+ 
+      - Schematics
+      
+      - Build Circuit
 
  
-Setting Up the IDE
-
-https://learn.adafruit.com/introducing-trinket/setting-up-with-arduino-ide
+Setting Up the IDE: https://learn.adafruit.com/introducing-trinket/setting-up-with-arduino-ide
